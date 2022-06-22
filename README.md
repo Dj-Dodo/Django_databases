@@ -1,1 +1,1 @@
-# Django_databases
+Zadania z predmetu Databázové systémy 
